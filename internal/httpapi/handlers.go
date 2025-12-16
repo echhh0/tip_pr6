@@ -8,7 +8,7 @@ import (
 	"github.com/go-chi/chi/v5"
 	"gorm.io/gorm"
 
-	"github.com/echoeszzz/tip_pr6/internal/models"
+	"github.com/echhh0/tip_pr6/internal/models"
 )
 
 type Handlers struct{ db *gorm.DB }
